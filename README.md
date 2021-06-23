@@ -1,6 +1,8 @@
 # five_apps
 
-A new Flutter project.
+Seeing what all this flutter nonsense is about.
+
+Followed https://www.youtube.com/watch?v=7JdcGBSWo50
 
 ## Getting Started
 
